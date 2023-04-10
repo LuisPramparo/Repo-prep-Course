@@ -1,2 +1,2 @@
-# Repo-prep-Course
-esta es una prueba del modulo 2 de henry
+este proyecto es una prueba de como crear un repo en git hubs y clonarlo
+
